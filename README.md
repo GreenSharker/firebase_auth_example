@@ -9,7 +9,7 @@
 
 
 ## 로그인
-![스크린샷 2022-05-17 오후 4 43 53](https://user-images.githubusercontent.com/48400348/170153816-864544f9-1a38-4979-bd8b-e579be474abc.png)
+<img width="50%" src="https://user-images.githubusercontent.com/48400348/170153816-864544f9-1a38-4979-bd8b-e579be474abc.png">
 
 ## 사용법
 1. 회원가입합니다.
