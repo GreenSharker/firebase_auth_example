@@ -5,7 +5,8 @@
 ## 회원가입
 로그인 화면에 로그인 버튼 아래 회원가입이 있습니다. 회원가입을 클릭합니다.
 
-![스크린샷 2022-05-25 오전 9 36 43](https://user-images.githubusercontent.com/48400348/170153975-26f5cbc0-8796-433b-9ba1-6650ee1ee569.png)
+<img width="50%" src="https://user-images.githubusercontent.com/48400348/170153975-26f5cbc0-8796-433b-9ba1-6650ee1ee569.png">
+
 
 ## 로그인
 ![스크린샷 2022-05-17 오후 4 43 53](https://user-images.githubusercontent.com/48400348/170153816-864544f9-1a38-4979-bd8b-e579be474abc.png)
